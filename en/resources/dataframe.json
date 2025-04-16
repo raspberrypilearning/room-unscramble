@@ -1,18 +1,88 @@
-[
+[  
   {
     "filename":"index.html",
-    "path":"en\/code\/starter\/",
-    "content":"<title>Room unscramble - Starter<\/title>\n<link href=\"style.css\" rel=\"stylesheet\"\/><\/head>\n<body>\n<h1>Room unscramble - Starter layout<\/h1>\n<p>Can you spot what's wrong and fix the page?<\/p>\n<div class=\"grid\">\n<div class=\"tile\"><img src=\"bert_sampson_tile_1_0.png\" alt=\"Tile 0\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_1.png\" alt=\"Tile 1\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_0.png\" alt=\"Tile 2\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_3.png\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_3.png\" alt=\"Tile 4\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tiel_1_2.png\" alt=\"Tile 5\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_1.png\" alt=\"Tile 6\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_2.png\" alt=\"Tile 7\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_1_3.png\" alt=\"Tile 8\"\/>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_2.png\" alt=\"Tile 9\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_0.png\" alt=\"Tile 10\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_1_1.png\" alt=\"Tile 11\"\/><\/div>\n<\/div>\n<\/body>\n<\/html>"
+    "path":"code\/code\/starter\/",
+    "content":"<head>\n  <link href=\"style.css\" rel=\"stylesheet\"\/>\n<\/head>\n<body>\n  <h1>Room unscramble - Starter layout<\/h1>\n  <div class=\"grid\">\n    <div class=\"tile\"><img src=\"bert_sampson_tile_1_0.png\" alt=\"Tile 0\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_1.png\" alt=\"Tile 1\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_0.png\" alt=\"Tile 2\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_3.png\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_3.png\" alt=\"Tile 4\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tiel_1_2.png\" alt=\"Tile 5\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_1.png\" alt=\"Tile 6\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_2.png\" alt=\"Tile 7\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_1_3.png\" alt=\"Tile 8\"\/>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_2.png\" alt=\"Tile 9\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_0.png\" alt=\"Tile 10\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_1_1.png\" alt=\"Tile 11\"\/><\/div>\n  <\/div>\n<\/body>\n"
   },
   {
-    "filename":"index.html",
-    "path":"en\/solutions\/",
-    "content":"<title>Room unscramble - Final Layout<\/title>\n<link href=\"style.css\" rel=\"stylesheet\"\/><\/head>\n<body>\n<h1>Room unscramble - Final Layout<\/h1>\n<p>This is the correct layout of the room for creators to recreate.<\/p>\n<div class=\"grid\">\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_0.png\" alt=\"Tile 0,0\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_1.png\" alt=\"Tile 0,1\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_2.png\" alt=\"Tile 0,2\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_0_3.png\" alt=\"Tile 0,3\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_1_0.png\" alt=\"Tile 1,0\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_1_1.png\" alt=\"Tile 1,1\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_1_2.png\" alt=\"Tile 1,2\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_1_3.png\" alt=\"Tile 1,3\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_0.png\" alt=\"Tile 2,0\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_1.png\" alt=\"Tile 2,1\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_2.png\" alt=\"Tile 2,2\"\/><\/div>\n<div class=\"tile\"><img src=\"bert_sampson_tile_2_3.png\" alt=\"Tile 2,3\"\/><\/div>\n<\/div>\n<\/body>\n<\/html>"
+    "filename":"bert_sampson_tile_0_3.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_2_1.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"project_config.yml",
+    "path":"code\/code\/starter\/",
+    "content":"name: \"Room unscramble\"\nidentifier: \"room-unscramble\"\ntype: html\nbuild: true\n"
+  },
+  {
+    "filename":"bert_sampson_tile_2_0.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_0_2.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_0_0.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_2_2.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_2_3.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_0_1.png",
+    "path":"code\/code\/starter\/",
+    "content":""
   },
   {
     "filename":"style.css",
-    "path":"en\/code\/starter\/",
+    "path":"code\/code\/starter\/",
     "content":"h1 {\n    \/* TODO: Add some cool styles here *\/\n}\n.grid {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    gap: 10px;\n    max-width: 600px;\n    margin: auto;\n}\n.tile img {\n    width: 100%;\n    max-width: 120px;\n    height: auto;\n    border: 2px solid #ccc;\n    border-radius: 8px;\n}"
+  },
+  {
+    "filename":"bert_sampson_tile_1_0.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_1_1.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_1_3.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"bert_sampson_tile_1_2.png",
+    "path":"code\/code\/starter\/",
+    "content":""
+  },
+  {
+    "filename":"index.html",
+    "path":"solutions\/solutions\/",
+    "content":"<head>\n  <link href=\"style.css\" rel=\"stylesheet\"\/>\n<\/head>\n<body>\n  <h1>Room unscramble - Final Layout<\/h1>\n  <div class=\"grid\">\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_0.png\" alt=\"Tile 0,0\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_1.png\" alt=\"Tile 0,1\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_2.png\" alt=\"Tile 0,2\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_0_3.png\" alt=\"Tile 0,3\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_1_0.png\" alt=\"Tile 1,0\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_1_1.png\" alt=\"Tile 1,1\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_1_2.png\" alt=\"Tile 1,2\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_1_3.png\" alt=\"Tile 1,3\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_0.png\" alt=\"Tile 2,0\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_1.png\" alt=\"Tile 2,1\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_2.png\" alt=\"Tile 2,2\"\/><\/div>\n    <div class=\"tile\"><img src=\"bert_sampson_tile_2_3.png\" alt=\"Tile 2,3\"\/><\/div>\n  <\/div>\n<\/body>\n"
+  },
+  {
+    "filename":"style.css",
+    "path":"solutions\/solutions\/",
+    "content":"h1 {\n    color: teal;\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\n    text-shadow: 2px 2px #ffcc00;\n    text-align: center;\n}\n.grid {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    gap: 10px;\n    max-width: 600px;\n    margin: auto;\n}\n.tile img {\n    width: 100%;\n    max-width: 120px;\n    height: auto;\n    border: 2px solid #ccc;\n    border-radius: 8px;\n}"
   },
   {
     "filename":"step_1.md",
@@ -37,81 +107,6 @@
   {
     "filename":"step_5.md",
     "path":"en\/",
-    "content":"\n<h2 class=\"c-project-heading--task\">Add your own creative CSS styles<\/h2>\n--- task ---\nUse the <style> section to customise the page and make it your own!\n--- \/task ---\n\n<h2 class=\"c-project-heading--explainer\">Make it fancy \ud83d\udc85<\/h2>\n\nYour layout is now working \u2014 great job! Now it is time to give your webpage a creative twist.\n\nTry editing the `style.css` file in the editor. You could:\n\n- Add a fun colour to the heading\n- Change the font style\n- Use a different border for the tiles\n- Add a background colour or gradient\n\nHere\u2019s an example:\n\n<div class=\"c-project-code\">\n--- code ---\n---\nlanguage: css\nfilename: style.css\nline_numbers: true\nline_number_start: 1\nline_highlights: 2-5\n---\nh1 {\n    color: teal;\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\n    text-shadow: 2px 2px #ffcc00;\n    text-align: center;\n}\n--- \/code ---\n<\/div>\n\nHave fun making the page your own!\n\n<div class=\"c-project-output\">\n<pre>The heading is now colourful and playful!<\/pre>\n<\/div>\n\n<div class=\"c-project-callout c-project-callout--tip\">\n\n### Tip\n\nYou can style any part of the page using CSS \u2014 try changing the tile borders, background colour, or text fonts!\n\nTo find the `style.css` file, click on the <strong>file icon<\/strong> to open the <strong>Project files<\/strong> tab:\n\n<img src=\"..\/images\/file-icon.png\" alt=\"File icon used to open the Project files tab\" width=\"32\"\/>\n\n<\/div>\n\n<div class=\"c-project-callout c-project-callout--try\">\n\n### Try this\n\nTry giving your tiles a rainbow look! You can change the border colour of different tiles like this:\n\n    .tile:nth-child(1) img {\n        border-color: red;\n    }\n\n    .tile:nth-child(2) img {\n        border-color: orange;\n    }\n\n    .tile:nth-child(3) img {\n        border-color: yellow;\n    }\n\nKeep going with more colours to make a rainbow grid!\n\n<\/div>\n"
-  },
-  {
-    "filename":"style.css",
-    "path":"en\/code\/starter\/",
-    "content":"h1 {\n    \/* TODO: Add some cool styles here *\/\n}\n.grid {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    gap: 10px;\n    max-width: 600px;\n    margin: auto;\n}\n.tile img {\n    width: 100%;\n    max-width: 120px;\n    height: auto;\n    border: 2px solid #ccc;\n    border-radius: 8px;\n}"
-  },
-  {
-    "filename":"style.css",
-    "path":"en\/solutions\/",
-    "content":"h1 {\n    color: teal;\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\n    text-shadow: 2px 2px #ffcc00;\n    text-align: center;\n}\n.grid {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    gap: 10px;\n    max-width: 600px;\n    margin: auto;\n}\n.tile img {\n    width: 100%;\n    max-width: 120px;\n    height: auto;\n    border: 2px solid #ccc;\n    border-radius: 8px;\n}"
-  },
-  {
-    "filename":"file-icon.png",
-    "path":"en\/images\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_0_1.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_0_0.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_2_3.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_2_2.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_2_1.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_2_0.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_1_3.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_1_2.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_1_1.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_1_0.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_0_3.png",
-    "path":"en\/code\/starter\/",
-    "content":""
-  },
-  {
-    "filename":"bert_sampson_tile_0_2.png",
-    "path":"en\/code\/starter\/",
-    "content":""
+    "content":"\n<h2 class=\"c-project-heading--task\">Add your own creative CSS styles<\/h2>\n--- task ---\nUse the <style> section to customise the page and make it your own!\n--- \/task ---\n\n<h2 class=\"c-project-heading--explainer\">Make it fancy \ud83d\udc85<\/h2>\n\nYour layout is now working \u2014 great job! Now it is time to give your webpage a creative twist.\n\nTry editing the `style.css` file in the editor. You could:\n\n- Add a fun colour to the heading\n- Change the font style\n- Use a different border for the tiles\n- Add a background colour or gradient\n\nHere\u2019s an example:\n\n<div class=\"c-project-code\">\n--- code ---\n---\nlanguage: css\nfilename: style.css\nline_numbers: true\nline_number_start: 1\nline_highlights: 2-5\n---\nh1 {\n    color: teal;\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\n    text-shadow: 2px 2px #ffcc00;\n    text-align: center;\n}\n--- \/code ---\n<\/div>\n\nHave fun making the page your own!\n\n<div class=\"c-project-callout c-project-callout--tip\">\n\n### Tip\n\nYou can style any part of the page using CSS \u2014 try changing the tile borders, background colour, or text fonts!\n\nTo find the `style.css` file, click on the <strong>file icon<\/strong> to open the <strong>Project files<\/strong> tab:\n\n<img src=\"..\/images\/file-icon.png\" alt=\"File icon used to open the Project files tab\" width=\"32\"\/>\n\n<\/div>\n\n<div class=\"c-project-callout c-project-callout--try\">\n\n### Try this\n\nTry giving your tiles a rainbow look! You can change the border colour of different tiles like this:\n\n    .tile:nth-child(1) img {\n        border-color: red;\n    }\n\n    .tile:nth-child(2) img {\n        border-color: orange;\n    }\n\n    .tile:nth-child(3) img {\n        border-color: yellow;\n    }\n\nKeep going with more colours to make a rainbow grid!\n\n<\/div>\n"
   }
 ]
