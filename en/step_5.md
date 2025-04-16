@@ -37,10 +37,6 @@ h1 {
 
 Have fun making the page your own!
 
-<div class="c-project-output">
-<pre>The heading is now colourful and playful!</pre>
-</div>
-
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
