@@ -18,8 +18,8 @@ Take a look at this part of the code:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 20
-line_highlights: 22-32
+line_number_start: 6
+line_highlights: 7-12
 ---
 <div class="grid">
     <div class="tile"><img src="bert_sampson_tile_1_0.png" alt="Tile 0"></div>
@@ -35,10 +35,6 @@ line_highlights: 22-32
 What do you notice?  
 - One tile is missing its `alt` text  
 - Another tile has a typo in the filename — it says "tiel" instead of "tile"! 🐞
-
-<div class="c-project-output">
-<pre>Grid of scrambled image tiles is displayed on the page</pre>
-</div>
 
 <div class="c-project-callout c-project-callout--tip">
 

@@ -8,7 +8,7 @@ Use the <style> section to customise the page and make it your own!
 
 Your layout is now working — great job! Now it is time to give your webpage a creative twist.
 
-Try editing the CSS at the top of the page. You could:
+Try editing the `style.css` file in the editor. You could:
 
 - Add a fun colour to the heading
 - Change the font style
@@ -21,10 +21,10 @@ Here’s an example:
 --- code ---
 ---
 language: css
-filename: index.html
+filename: style.css
 line_numbers: true
-line_number_start: 7
-line_highlights: 8-12
+line_number_start: 1
+line_highlights: 2-5
 ---
 h1 {
     color: teal;
@@ -46,6 +46,10 @@ Have fun making the page your own!
 ### Tip
 
 You can style any part of the page using CSS — try changing the tile borders, background colour, or text fonts!
+
+To find the `style.css` file, click on the <strong>file icon</strong> to open the <strong>Project files</strong> tab:
+
+<img src="../images/file-icon.png" alt="File icon used to open the Project files tab" width="32"/>
 
 </div>
 
