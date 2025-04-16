@@ -1,0 +1,4 @@
+name: "Room unscramble"
+identifier: "room-unscramble"
+type: html
+build: true

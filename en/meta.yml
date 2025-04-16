@@ -1,11 +1,20 @@
-title: default-project-template
+title: Room unscramble
 hero_image: images/banner.png
-description: default-project-template description
+description: Fix a scrambled image grid by reordering HTML tiles using filenames as clues. Great for beginners to explore HTML layout!
+meta_title: Learn to code with Room unscramble | Raspberry Pi Foundation
+meta_description: Learn how to fix a scrambled image using HTML layout skills.
 version: 1
 listed: false
 copyedit: false
-last_tested: "2025-01-01"
+last_tested: "2025-04-16"
 steps:
-  - title: What you will make
-  - title: Step title
-  - title: What can you do now?
+  - title: step_1
+  - title: step_2
+    completion:
+    - engaged
+  - title: step_3
+  - title: step_4
+  - title: step_5
+    completion:
+    - internal
+    - external

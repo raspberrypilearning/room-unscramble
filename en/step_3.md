@@ -1,22 +1,61 @@
-## What can you do now?
 
-If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
+<h2 class="c-project-heading--task">Figure out what the filenames mean</h2>
+--- task ---
+Look at the tile image filenames and work out how the names tell you where each tile should go.
+--- /task ---
 
------- OR ---------
+<h2 class="c-project-heading--explainer">A secret code in every filename 🧩</h2>
 
-Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
+Each tile image has a filename like:
 
---- print-only --- 
+```html
+bert_sampson_tile_0_1.png
+```
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
+Let’s break that down:
 
---- /print-only ---
+- `bert_sampson` is the name of the image set
+- `tile` means it’s part of the grid
+- The numbers `_0_1` show the **row** and **column** where the tile should go!
 
---- no-print ---
+So `tile_0_1` belongs in **row 0**, **column 1** — that’s the **second tile on the top row**.
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
+Here’s an example set of tiles:
 
---- /no-print ---
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 22
+line_highlights: 22-25
+---
+<div class="tile"><img src="bert_sampson_tile_0_0.png" alt="Tile 0,0"></div>
+<div class="tile"><img src="bert_sampson_tile_0_1.png" alt="Tile 0,1"></div>
+<div class="tile"><img src="bert_sampson_tile_0_2.png" alt="Tile 0,2"></div>
+<div class="tile"><img src="bert_sampson_tile_0_3.png" alt="Tile 0,3"></div>
+--- /code ---
+</div>
 
-Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
+These are all the tiles in the **top row**, going left to right.
+
+<div class="c-project-output">
+<pre>Each tile has a position based on its filename</pre>
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+The grid has **3 rows** and **4 columns** — the tile names help you place them in the correct order!
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+If your layout looks wrong later, check that each tile is in the correct spot based on the numbers in its filename.
+
+</div>

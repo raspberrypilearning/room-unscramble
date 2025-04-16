@@ -1,42 +1,57 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
 
-A brief description - one or two sentences. 
+<h2 class="c-project-heading--task">Open the scrambled room webpage</h2>
+--- task ---
+Open the starter project and look at the room that appears. It looks a little... scrambled! 👀
+--- /task ---
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
+<h2 class="c-project-heading--explainer">Something's not quite right…</h2>
 
---- no-print ---
+The tiles are in a grid, but the room image looks mixed up. The pieces are there, but not in the right places.
 
-Editor embed 
+In this project, you are going to figure out how the image tiles work, then rearrange the HTML to fix the room! 🛠️
 
---- /no-print ---
+Take a look at this part of the code:
 
---- no-print ---
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 20
+line_highlights: 22-32
+---
+<div class="grid">
+    <div class="tile"><img src="bert_sampson_tile_1_0.png" alt="Tile 0"></div>
+    <div class="tile"><img src="bert_sampson_tile_0_1.png" alt="Tile 1"></div>
+    <div class="tile"><img src="bert_sampson_tile_2_0.png" alt="Tile 2"></div>
+    <div class="tile"><img src="bert_sampson_tile_2_3.png"></div>
+    <div class="tile"><img src="bert_sampson_tile_0_3.png" alt="Tile 4"></div>
+    <div class="tile"><img src="bert_sampson_tiel_1_2.png" alt="Tile 5"></div>
+</div>
+--- /code ---
 </div>
 
---- /no-print ---
+What do you notice?  
+- One tile is missing its `alt` text  
+- Another tile has a typo in the filename — it says "tiel" instead of "tile"! 🐞
 
-### You will need:
-- a
-- b
-- c
+<div class="c-project-output">
+<pre>Grid of scrambled image tiles is displayed on the page</pre>
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can use the preview panel in the editor to see how your webpage looks as you make changes. Try scrolling down and checking how the tiles appear.
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+If some of the tiles are not showing, check the image `src` paths in the HTML. A small typo in the filename — like `tiel` instead of `tile` — can stop the image from loading!
+
+</div>
