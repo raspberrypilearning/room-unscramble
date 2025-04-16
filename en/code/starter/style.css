@@ -1,0 +1,17 @@
+h1 {
+    /* TODO: Add some cool styles here */
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    max-width: 600px;
+    margin: auto;
+}
+.tile img {
+    width: 100%;
+    max-width: 120px;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
