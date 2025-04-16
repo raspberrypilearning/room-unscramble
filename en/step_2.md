@@ -16,8 +16,8 @@ Have a look at this section of the code:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 30
-line_highlights: 33
+line_number_start: 15
+line_highlights: 15
 ---
 <div class="tile"><img src="bert_sampson_tile_1_3.png" alt="Tile 8">
 <div class="tile"><img src="bert_sampson_tile_2_2.png" alt="Tile 9"></div>
@@ -29,10 +29,6 @@ line_highlights: 33
 🪲 Can you spot the problem?
 
 One of the `<div>` elements is missing a closing tag. This can cause the layout to look strange or behave unexpectedly in the grid!
-
-<div class="c-project-output">
-<pre>Some tiles might not appear correctly, or look out of place</pre>
-</div>
 
 <div class="c-project-callout c-project-callout--tip">
 

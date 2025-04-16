@@ -18,8 +18,8 @@ Here’s what the correct layout should look like:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 20
-line_highlights: 21-33
+line_number_start: 6
+line_highlights: 7-18
 ---
 <div class="grid">
     <div class="tile"><img src="bert_sampson_tile_0_0.png" alt="Tile 0,0"></div>
@@ -39,10 +39,6 @@ line_highlights: 21-33
 </div>
 
 Each <img> tag is now in the correct position based on its filename. Nice work! 🧠
-
-<div class="c-project-output">
-<pre>A correctly ordered grid showing the full room image</pre>
-</div>
 
 <div class="c-project-callout c-project-callout--tip">
 

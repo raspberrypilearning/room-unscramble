@@ -28,8 +28,8 @@ Here’s an example set of tiles:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 22
-line_highlights: 22-25
+line_number_start: 7
+line_highlights: 7-10
 ---
 <div class="tile"><img src="bert_sampson_tile_0_0.png" alt="Tile 0,0"></div>
 <div class="tile"><img src="bert_sampson_tile_0_1.png" alt="Tile 0,1"></div>
@@ -39,10 +39,6 @@ line_highlights: 22-25
 </div>
 
 These are all the tiles in the **top row**, going left to right.
-
-<div class="c-project-output">
-<pre>Each tile has a position based on its filename</pre>
-</div>
 
 <div class="c-project-callout c-project-callout--tip">
 
