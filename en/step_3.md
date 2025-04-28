@@ -28,13 +28,14 @@ Here is the correct layout for the **top row** of tiles, going left to right:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 7
+line_number_start: 6
 line_highlights: 7-10
 ---
-<div class="tile"><img src="bert_sampson_tile_0_0.png" alt="Tile 1"></div>
-<div class="tile"><img src="bert_sampson_tile_0_1.png" alt="Tile 2"></div>
-<div class="tile"><img src="bert_sampson_tile_0_2.png" alt="Tile 3"></div>
-<div class="tile"><img src="bert_sampson_tile_0_3.png" alt="Tile 4"></div>
+<div class="grid">
+  <div class="tile"><img src="bert_sampson_tile_0_0.png" alt="Tile 10"></div>
+  <div class="tile"><img src="bert_sampson_tile_0_1.png" alt="Tile 1"></div>
+  <div class="tile"><img src="bert_sampson_tile_0_2.png" alt="Tile 7"></div>
+  <div class="tile"><img src="bert_sampson_tile_0_3.png" alt="Tile 4"></div>
 --- /code ---
 </div>
 

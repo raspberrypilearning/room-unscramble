@@ -8,7 +8,7 @@ Use the style.css file to customise the page.
 
 Your layout is now working — great job! Now it is time to give your webpage a creative twist.
 
-Open the `style.css` file (the file icon is on the left) <img src="images/file-icon.png" alt="File icon used to open the Project files tab" width="32"/>. 
+Open the `style.css` file (click file icon on the left <img src="images/file-icon.png" alt="File icon used to open the Project files tab" width="32"/>). 
 
 Close the gap between the tiles.
 
@@ -29,10 +29,9 @@ line_highlights: 7
     margin: 0;
 }
 --- /code ---
+</div>
 
-Have fun making the page your own!
-
-You could also change the heading:
+Change the heading.
 
 - Add a fun colour to the heading
 - Change the font style

@@ -12,6 +12,8 @@ Inspect the scrambled tiles more carefully.
 
 One of the `<div>` elements is missing a closing tag. This can cause the layout to look strange or behave unexpectedly in the grid.
 
+Close the `<div>` on line 15.
+
 <div class="c-project-code">
 --- code ---
 ---
