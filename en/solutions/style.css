@@ -7,8 +7,8 @@ h1 {
 .grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-    max-width: 600px;
+    gap: 2px;
+    max-width: 400px;
     margin: auto;
 }
 .tile img {
