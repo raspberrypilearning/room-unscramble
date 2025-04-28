@@ -13,8 +13,8 @@ steps:
     completion:
     - engaged
   - title: step_3
-  - title: step_4
-  - title: step_5
     completion:
     - internal
+  - title: step_4
+    completion:
     - external
